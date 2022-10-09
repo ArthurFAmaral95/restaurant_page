@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+html, body {
+  width: 50rem;
+  margin-inline: auto;
+}
+
+img {
+  max-width: 100%;
+  width: 50%;
+}
